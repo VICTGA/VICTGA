@@ -3,7 +3,9 @@ Olá, bem vindo ao meu perfil.
 - Estou estudando no Alura.
 - Estou aprendendo a linguagem JavaScript.
 - Utilizo esse espaço para organizar e compartilhar os meu projetos desenvolvidos.
-
+  
+Você pode entrar em contato comigo:
+00001133979385SP@al.educacao.sp.gov.br
 
 <!--
 **VICTGA/VICTGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
