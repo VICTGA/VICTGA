@@ -1,4 +1,9 @@
-Olá 
+Olá, bem vindo ao meu perfil.
+- Meu nome é Victor Gabriel Vaz De Almeida.
+- Estou estudando no Alura.
+- Estou aprendendo a linguagem JavaScript.
+- Utilizo esse espaço para organizar e compartilhar os meu projetos desenvolvidos.
+
 
 <!--
 **VICTGA/VICTGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
